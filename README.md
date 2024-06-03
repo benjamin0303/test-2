@@ -26,3 +26,9 @@ Also
 
 * Four
 + Five
+
+**Bold**
+*Italic*
+***Bold Italic***
+~~Cancel Line~~
+
