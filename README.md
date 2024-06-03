@@ -39,3 +39,11 @@ Also
 >> This is citation under a citation
 
 To add one-line source code, use like `function add(x, y) {return x + y;}`
+
+To add multi-line source code, use like
+```python
+import sys
+import numpy as np
+import matplotlib.pyplot as plt
+import torch
+```
