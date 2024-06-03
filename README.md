@@ -38,3 +38,4 @@ Also
 > This is citation
 >> This is citation under a citation
 
+To add one-line source code, use like `function add(x, y) {return x + y;}`
