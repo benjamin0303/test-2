@@ -56,3 +56,8 @@ To add hyperlink, do the below.
 [The tale of three kingdoms](https://www.youtube.com/watch?v=hnanNlDbsE4)
 
 [The tale of three kingdoms](https://www.youtube.com/watch?v=hnanNlDbsE4, "Calm down man")
+
+
+To add an image, do as below.
+
+![Dokk-Kae-Ppal](images/ddok.gif)
